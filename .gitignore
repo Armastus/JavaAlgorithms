@@ -26,6 +26,7 @@ hs_err_pid*
 # IntelliJ project files
 .idea
 *.iml
+# comment
 out
 gen### Eclipse template
 
