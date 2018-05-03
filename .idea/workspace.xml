@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="494b23dc-f4d4-49b7-99f8-4624dcc250f5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Binaries/convertToBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiDimensionalArray/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiDimensionalArray/libraryCatalogue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Binaries/findBinaryWithFactorial.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <ignored mask=".xml" />
@@ -17,11 +17,49 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="convertToBinary.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="convertToBinary.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Binaries/convertToBinary.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+            <state relative-caret-position="-208">
+              <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="libraryCatalogue.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/MultiDimensionalArray/libraryCatalogue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="34" column="14" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#113#127#0" expanded="true" />
+                <element signature="e#372#373#0" expanded="true" />
+                <element signature="e#421#422#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Book.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MultiDimensionalArray/Book.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="298">
+              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+              <folding>
+                <element signature="e#443#444#0" expanded="true" />
+                <element signature="e#469#470#0" expanded="true" />
+                <element signature="e#491#492#0" expanded="true" />
+                <element signature="e#517#518#0" expanded="true" />
+                <element signature="e#526#527#0" expanded="true" />
+                <element signature="e#552#553#0" expanded="true" />
+                <element signature="e#573#574#0" expanded="true" />
+                <element signature="e#612#613#0" expanded="true" />
+                <element signature="e#617#618#0" expanded="true" />
+                <element signature="e#643#644#0" expanded="true" />
+                <element signature="e#1002#1003#0" expanded="true" />
+                <element signature="e#1042#1043#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -47,13 +85,17 @@
         <option value="$PROJECT_DIR$/src/Binaries/findBinaryWithFactorial.java" />
         <option value="$PROJECT_DIR$/src/Binaries/findBinary.java" />
         <option value="$PROJECT_DIR$/src/Binaries/convertToBinary.java" />
+        <option value="$PROJECT_DIR$/src/MultiDimensionalArray/Book.java" />
+        <option value="$PROJECT_DIR$/src/MultiDimensionalArray/libraryCatalog.java" />
+        <option value="$PROJECT_DIR$/src/MultiDimensionalArray/libraryCatalogue.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="952" />
-    <option name="width" value="977" />
-    <option name="height" value="1038" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="782" />
+    <option name="y" value="2" />
+    <option name="width" value="1147" />
+    <option name="height" value="1742" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -98,6 +140,12 @@
               <item name="JavaAlgorithms" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="InsertionSort" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaAlgorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaAlgorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="MultiDimensionalArray" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaAlgorithms" type="b2602c69:ProjectViewProjectNode" />
@@ -273,12 +321,18 @@
       <option name="project" value="LOCAL" />
       <updated>1525302016933</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Adding HashMap exercise">
+      <created>1525383839926</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1525383839926</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="762" y="0" width="781" height="830" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -286,11 +340,11 @@
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33285302" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33285302" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32939324" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32478634" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27045768" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13087249" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -529,8 +583,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Binaries/convertToBinary.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+        <state relative-caret-position="-208">
+          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MultiDimensionalArray/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="e#443#444#0" expanded="true" />
+            <element signature="e#469#470#0" expanded="true" />
+            <element signature="e#491#492#0" expanded="true" />
+            <element signature="e#517#518#0" expanded="true" />
+            <element signature="e#526#527#0" expanded="true" />
+            <element signature="e#552#553#0" expanded="true" />
+            <element signature="e#573#574#0" expanded="true" />
+            <element signature="e#612#613#0" expanded="true" />
+            <element signature="e#617#618#0" expanded="true" />
+            <element signature="e#643#644#0" expanded="true" />
+            <element signature="e#1002#1003#0" expanded="true" />
+            <element signature="e#1042#1043#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MultiDimensionalArray/libraryCatalogue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="34" column="14" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#113#127#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="true" />
+            <element signature="e#421#422#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
