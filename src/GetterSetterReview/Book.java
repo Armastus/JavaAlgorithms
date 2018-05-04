@@ -1,4 +1,4 @@
-package MultiDimensionalArray;
+package GetterSetterReview;
 
 public class Book {
     String title;
