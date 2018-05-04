@@ -1,4 +1,4 @@
-package Inheritance;
+package InheritanceExampleOne;
 
 class Student extends Person{
     /*

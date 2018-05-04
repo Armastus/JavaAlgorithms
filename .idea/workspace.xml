@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="494b23dc-f4d4-49b7-99f8-4624dcc250f5" name="Default" comment="Inheritance Look closely!">
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/Student.java" afterDir="false" />
+    <list default="true" id="494b23dc-f4d4-49b7-99f8-4624dcc250f5" name="Default" comment="Adding inheritance example">
+      <change afterPath="$PROJECT_DIR$/src/InheritanceExampleTwo/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceExampleTwo/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceExampleTwo/Dog.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inheritance/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InheritanceExampleOne/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inheritance/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InheritanceExampleOne/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inheritance/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InheritanceExampleOne/Student.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <ignored mask=".xml" />
@@ -19,7 +22,7 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Inheritance/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/InheritanceExampleOne/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="220">
               <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
@@ -28,7 +31,7 @@
         </entry>
       </file>
       <file leaf-file-name="Person.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Inheritance/Person.java">
+        <entry file="file://$PROJECT_DIR$/src/InheritanceExampleOne/Person.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
               <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
@@ -36,11 +39,56 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Student.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Inheritance/Student.java">
+      <file leaf-file-name="Student.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/InheritanceExampleOne/Student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78">
-              <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+            <state relative-caret-position="162">
+              <caret line="31" column="42" lean-forward="true" selection-start-line="31" selection-start-column="42" selection-end-line="31" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Animal.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/InheritanceExampleTwo/Animal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="74">
+              <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+              <folding>
+                <element signature="e#241#242#0" expanded="true" />
+                <element signature="e#298#299#0" expanded="true" />
+                <element signature="e#325#326#0" expanded="true" />
+                <element signature="e#351#352#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Cat.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/InheritanceExampleTwo/Cat.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+              <folding>
+                <element signature="e#188#189#0" expanded="true" />
+                <element signature="e#238#239#0" expanded="true" />
+                <element signature="e#266#267#0" expanded="true" />
+                <element signature="e#321#322#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Dog.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/InheritanceExampleTwo/Dog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="e#190#191#0" expanded="true" />
+                <element signature="e#245#246#0" expanded="true" />
+                <element signature="e#270#271#0" expanded="true" />
+                <element signature="e#324#325#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -74,7 +122,12 @@
         <option value="$PROJECT_DIR$/src/twoDimensionalArrays/hourGlasses.java" />
         <option value="$PROJECT_DIR$/src/Inheritance/Solution.java" />
         <option value="$PROJECT_DIR$/src/Inheritance/Person.java" />
+        <option value="$PROJECT_DIR$/src/InheritanceAndAbstract/Student.java" />
         <option value="$PROJECT_DIR$/src/Inheritance/Student.java" />
+        <option value="$PROJECT_DIR$/src/InheritanceExampleOne/Student.java" />
+        <option value="$PROJECT_DIR$/src/InheritanceExampleTwo/Animal.java" />
+        <option value="$PROJECT_DIR$/src/InheritanceExampleTwo/Cat.java" />
+        <option value="$PROJECT_DIR$/src/InheritanceExampleTwo/Dog.java" />
       </list>
     </option>
   </component>
@@ -131,7 +184,13 @@
               <item name="JavaAlgorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaAlgorithms" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Inheritance" type="462c0819:PsiDirectoryNode" />
+              <item name="InheritanceExampleOne" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaAlgorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaAlgorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="InheritanceExampleTwo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaAlgorithms" type="b2602c69:ProjectViewProjectNode" />
@@ -346,7 +405,14 @@
       <option name="project" value="LOCAL" />
       <updated>1525389105375</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Inheritance Look closely!">
+      <created>1525474460896</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1525474460896</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -361,7 +427,7 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.33285302" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.21937323" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.21902017" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23300971" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -404,7 +470,8 @@
     <option name="SHOW_UNVERSIONED_FILES_WHILE_COMMIT" value="false" />
     <MESSAGE value="Adding HashMap exercise" />
     <MESSAGE value="Inheritance Look closely!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inheritance Look closely!" />
+    <MESSAGE value="Adding inheritance example" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding inheritance example" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -412,27 +479,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Recursion/RecursionGOODLUCK.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="35" lean-forward="true" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BubbleSort/bubbleSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WordsInString/wordsInString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/HashMap/DictionaryPractice.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1139">
@@ -760,24 +806,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Inheritance/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/InheritanceExampleOne/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Inheritance/Person.java">
+    <entry file="file://$PROJECT_DIR$/src/InheritanceExampleOne/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Inheritance/Student.java">
+    <entry file="file://$PROJECT_DIR$/src/InheritanceExampleOne/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        <state relative-caret-position="162">
+          <caret line="31" column="42" lean-forward="true" selection-start-line="31" selection-start-column="42" selection-end-line="31" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InheritanceExampleTwo/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+          <folding>
+            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InheritanceExampleTwo/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#190#191#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+            <element signature="e#324#325#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InheritanceExampleTwo/Cat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+          <folding>
+            <element signature="e#188#189#0" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
