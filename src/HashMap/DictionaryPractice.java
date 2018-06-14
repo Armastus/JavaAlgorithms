@@ -68,5 +68,10 @@ public class DictionaryPractice {
         System.out.println(shoppingList.toString());
         // This just really points to an empty list.
         System.out.println((shoppingList.isEmpty()));
+
+        System.out.println(englSpanDictionary.containsKey("Monday"));
+        System.out.println(englSpanDictionary.containsValue("Lunes"));
+        System.out.println(englSpanDictionary.entrySet());
+        System.out.println(englSpanDictionary.keySet());
     }
 }
